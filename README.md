@@ -13,9 +13,9 @@ Any Loan can either be accpeted or rejected. If it is accepted then there are th
 
 ## General Information
 - Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
-- What is the background of your project?
+- Understanding of risk analytics in banking and financial services and understanding how data is used to minimise the risk of losing money while lending to customers is very crucial.
 - If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study. In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment. 
-- What is the dataset that is being used?
+- The dataset contains the complete loan data for all loans issued through the time period 2007 t0 2011 for the company.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -29,21 +29,22 @@ Any Loan can either be accpeted or rejected. If it is accepted then there are th
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupyter Notebook(Anaconda 3) - version 6.4.8
+- Python3 - version 3.10
+- numpy - version 1.21.5
+- pandas - version 1.4.2
+- matplotlib - version 3.5.1
+- seaborn - version 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by UpGrad EDA course
+- References - google.com, quora.com, stackoverflow.com
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by zuhu2195 - feel free to contact me!
 
 
 <!-- Optional -->
