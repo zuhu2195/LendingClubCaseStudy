@@ -20,10 +20,16 @@ Any Loan can either be accpeted or rejected. If it is accepted then there are th
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan is usually borrowed in 5k intervals by more number of people, spikes at 5k intervals say so.
+- People whose term is 36 months are more likely to default than those who have term as 60 months.
+- People who are in mortgage agreement or in rent are more likely to default than people who have own houses with maximum number of defaults coming from people who live in rented homes.
+- Not verified people are more likely to default than verified and verified ones are more likely to default than ones whose source of income is verified
+- Grades B,C and D account for most number of defualts.
+- Mortgage-Verified and Rent-Not Verified are the most defaulting categories, though Mortage-Verified is a peculiar category, indicating that it might be possible that verification is not done properly for Mortgage category of customers.
+- People who are staying in rented homes and have grades B, C and D are more likely to default. Same applies for people staying in mortgage homes.
+- The people who are Charged Off have least overall annual income.
+- The average interest rate of Charged Off customers is more than that off Fully Paid customers(ignoring the Current Segment). Therefore it can be said that high interest rate loans are more likely to default. The same trend can be seen for monthly installment as well, i.e Charged Off people tend to have higher monthly installments.
+- We see that as loan_amnt increases, the monthly installment also increases, and people often tend to take hefty loans and fail to pay their monthly installment and default on loan.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
