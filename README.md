@@ -20,7 +20,7 @@ Any Loan can either be accpeted or rejected. If it is accepted then there are th
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Loan is usually borrowed in 5k intervals by most number of people, spikes at 5k intervals say so.
+- Loan is usually borrowed in 2.5k intervals by most number of people, spikes at 2.5k intervals say so.
 - People whose term is 36 months are more likely to default than those who have term as 60 months.
 - People who are in mortgage agreement or in rent are more likely to default than people who have own houses with maximum number of defaults coming from people who live in rented homes.
 - Not verified people are more likely to default than verified and verified ones are more likely to default than ones whose source of income is verified
